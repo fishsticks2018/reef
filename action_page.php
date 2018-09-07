@@ -1,0 +1,1 @@
+$firstname=$_GET['firstname'];
